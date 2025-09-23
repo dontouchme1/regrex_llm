@@ -31,4 +31,4 @@ Open the frontend URL shown in the terminal (typically `http://localhost:5173`).
 
 
 ## Demo
-<video src="[./asset/demo.mp4](https://github.com/dontouchme1/regrex_llm/blob/main/asset/demo.mp4)"> </video>
+<video src="[./asset/demo.gif](https://github.com/dontouchme1/regrex_llm/blob/main/asset/demo.gif)"> </video>
