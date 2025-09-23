@@ -1,10 +1,5 @@
 # regrex_llm
-
-## Regex Pattern Match & Replace
-
 LLM-powered regex matcher and replacer with a Django API and a Vite/React UI.
-
-
 
 ## Prerequisites
 - Python 3.13
@@ -36,8 +31,4 @@ Open the frontend URL shown in the terminal (typically `http://localhost:5173`).
 
 
 ## Demo
-<video width="720" controls loop muted playsinline>
-  <source src="./asset/demo.mp4" type="video/quicktime" />
-  Your browser does not support the video tag. 
-  <a href="./asset/demo.mp4">Download demo.mp4</a>
-</video>
+<video src="./asset/demo.mp4"> </video>
