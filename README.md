@@ -37,7 +37,7 @@ Open the frontend URL shown in the terminal (typically `http://localhost:5173`).
 
 ## Demo
 <video width="720" controls loop muted playsinline>
-  <source src="./asset/demo.mov" type="video/quicktime" />
+  <source src="./asset/demo.mp4" type="video/quicktime" />
   Your browser does not support the video tag. 
-  <a href="./asset/demo.mov">Download demo.mov</a>
+  <a href="./asset/demo.mp4">Download demo.mp4</a>
 </video>
