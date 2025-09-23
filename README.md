@@ -31,4 +31,4 @@ Open the frontend URL shown in the terminal (typically `http://localhost:5173`).
 
 
 ## Demo
-![Demo]([./asset/demo.gif](https://github.com/dontouchme1/regrex_llm/blob/main/asset/%20demo.gif)
+![Demo](https://github.com/dontouchme1/regrex_llm/blob/main/asset/%20demo.gif)
