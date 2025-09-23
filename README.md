@@ -4,6 +4,8 @@
 
 Quick instructions to start backend (Django) and frontend (Vite/React).
 
+
+
 ## Prerequisites
 - Python 3.13
 - Node.js 18+
@@ -33,3 +35,7 @@ npm run dev
 Open the frontend URL shown in the terminal (typically `http://localhost:5173`).
 
 
+## Demo
+<video src="./asset/demo.mov" width="720" controls loop muted playsinline>
+  Your browser does not support the video tag.
+</video>
