@@ -2,7 +2,7 @@
 
 ## Regex Pattern Match & Replace
 
-Quick instructions to start backend (Django) and frontend (Vite/React).
+LLM-powered regex matcher and replacer with a Django API and a Vite/React UI.
 
 
 
@@ -36,6 +36,8 @@ Open the frontend URL shown in the terminal (typically `http://localhost:5173`).
 
 
 ## Demo
-<video src="./asset/demo.mov" width="720" controls loop muted playsinline>
-  Your browser does not support the video tag.
+<video width="720" controls loop muted playsinline>
+  <source src="./asset/demo.mov" type="video/quicktime" />
+  Your browser does not support the video tag. 
+  <a href="./asset/demo.mov">Download demo.mov</a>
 </video>
